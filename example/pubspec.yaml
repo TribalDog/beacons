@@ -1,6 +1,9 @@
 name: beacons_example
 description: Demonstrates how to use the beacons plugin.
 
+module:
+  androidX: true
+
 dependencies:
   flutter:
     sdk: flutter
